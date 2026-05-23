@@ -1,4 +1,4 @@
-# This is my Gihub Demo Project
+# This is my Github Demo Project
 
 ## Things here to see
 
